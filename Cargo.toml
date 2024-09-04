@@ -5,7 +5,7 @@ edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 [lib]
-name = "zip_to_parquet_py"
+name = "zip_to_parquet"
 crate-type = ["cdylib"]
 
 [dependencies]
