@@ -11,5 +11,6 @@
   languages.python.venv.quiet = true;
   languages.python.venv.requirements = ''
     maturin
+    polars
   '';
 }

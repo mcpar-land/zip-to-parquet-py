@@ -10,3 +10,11 @@ crate-type = ["cdylib"]
 
 [dependencies]
 pyo3 = "0.22.0"
+parquet = "50.0.0"
+zip = "0.6.6"
+sha2 = "0.10.8"
+arrow-schema = "50.0.0"
+arrow-array = "50.0.0"
+threadpool = "1.8.1"
+wax = "0.6.0"
+
